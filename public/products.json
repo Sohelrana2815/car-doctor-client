@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Oil Change",
+    "price": 29.99,
+    "img": "https://i.postimg.cc/wTc3X5VB/1.png"
+  },
+  {
+    "id": 2,
+    "name": "Tire Rotation",
+    "price": 19.99,
+    "img": "https://i.postimg.cc/2Sky2qc7/2.png"
+  },
+  {
+    "id": 3,
+    "name": "Brake Inspection",
+    "price": 39.99,
+    "img": "https://i.postimg.cc/yNWdCMzJ/3.png"
+  },
+  {
+    "id": 4,
+    "name": "Car Wash",
+    "price": 14.99,
+    "img": "https://i.postimg.cc/sXhgv5xs/4.png"
+  },
+  {
+    "id": 5,
+    "name": "Battery Replacement",
+    "price": 89.99,
+    "img": "https://i.postimg.cc/j26qhKy1/5.png"
+  },
+  {
+    "id": 6,
+    "name": "Engine Tune-Up",
+    "price": 199.99,
+    "img": "https://i.postimg.cc/YqkCCGHB/6.png"
+  }
+]
